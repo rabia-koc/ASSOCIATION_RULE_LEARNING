@@ -21,7 +21,7 @@
 * En çok birlikte alınan ürünleri görmemizi ve buna göre hareket etmemizi sağlar. 
 
 # İŞ PROBLEMİ
-* Sepet aşamasındaki kullanıclara ürün önerisinde bulunmak.
+* Sepet aşamasındaki kullanıcılara ürün önerisinde bulunmak.
 
 # VERİ SETİ HİKAYESİ
 * Online Retail II isimli veri seti İngiltere merkezli online bir satış mağzasının 01/12/2009-09/12/2011 tarihleri arasındaki satışları içeriyor.
