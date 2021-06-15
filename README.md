@@ -1,4 +1,7 @@
 # ASSOCIATION_RULE_LEARNING
+
+   ![image](https://user-images.githubusercontent.com/73841520/122132425-7bcb8c00-ce43-11eb-88cb-1e3bf4f5384c.png)
+
 * Bir veri öğesinin başka bir veri öğesine bağımlılığını kontrol eden ve daha kararlı olabilmesini sağlayan kural tabanlı bir makine öğrenmesi tekniğidir. 
 * Ayrıca geçmiş verilerin analizini sağlayarak keşfettiği ilişkiler ile geleceğe yönelik çalışmaların yapılmasını destekler. 
 * Örneğin, bir müşteri ekmek satın alırsa, büyük bir olasılıkla süt, tereyağı veya yumurta alabilir. 
